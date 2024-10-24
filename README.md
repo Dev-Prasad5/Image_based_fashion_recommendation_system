@@ -1,4 +1,3 @@
-
 # Image Based Fashion Recommendation System
 
 A Machine Learning based web application which allow users to get image based recommendations. Implemented machine learning algorithm like K-NN, CNN and trained ML model with 44k image dataset. The system suggests 5 similar fashion products as similar as input image.
@@ -31,9 +30,7 @@ Objective of this project is as follows:
 ## Training the Neural Networks
 
 Once the data is pre-processed, the neural networks are trained, utilizing transfer learning from [ResNet50](https://blog.roboflow.com/what-is-resnet-50/). More additional layers are added in the last layers that replace the architecture and weights from ResNet50 in order to fine-tune the network model to serve the current issue. The figure shows the ResNet50 architecture.
-## Dataset
 
- - [Kaggle Dataset (572 MB)](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)
 ## Demo
 ![output1](https://github.com/user-attachments/assets/22b98bef-019f-4aaf-8450-697e15b11ba1)
 ![output2](https://github.com/user-attachments/assets/9e8567b4-494b-4fbd-9651-a83214abb402)
