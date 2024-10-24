@@ -1,0 +1,1 @@
+A Machine Learning based web application which allow users to get image based recommendations. Implemented machine learning algorithm like K-NN, CNN and trained ML model with 44k image dataset. The system suggests 5 similar fashion products as similar as input image.
